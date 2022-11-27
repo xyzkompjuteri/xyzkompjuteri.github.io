@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dd6a460.chunk.css",
+    "main.js": "/static/js/main.af1c4b94.chunk.js",
+    "main.js.map": "/static/js/main.af1c4b94.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5d8470d5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5d8470d5.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.17398b29.chunk.js": "/static/js/2.17398b29.chunk.js",
+    "static/js/2.17398b29.chunk.js.map": "/static/js/2.17398b29.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.6dd6a460.chunk.css.map": "/static/css/main.6dd6a460.chunk.css.map",
+    "static/js/2.17398b29.chunk.js.LICENSE.txt": "/static/js/2.17398b29.chunk.js.LICENSE.txt",
+    "static/media/Case_Construction_logo.svg.22e2e004.png": "/static/media/Case_Construction_logo.svg.22e2e004.png",
+    "static/media/Jungheinrich_AG_Logo.60aefa42.png": "/static/media/Jungheinrich_AG_Logo.60aefa42.png",
+    "static/media/Komatsu_logo.5668c914.png": "/static/media/Komatsu_logo.5668c914.png",
+    "static/media/Perkins-Logo.svg.77bac6c7.png": "/static/media/Perkins-Logo.svg.77bac6c7.png",
+    "static/media/Toyota.1e79c757.png": "/static/media/Toyota.1e79c757.png",
+    "static/media/style.css": "/static/media/block3.ffa8c5b2.jpg",
+    "static/media/cat-logo.868a66a1.jpg": "/static/media/cat-logo.868a66a1.jpg",
+    "static/media/hangsha-logo.ea65c1d8.png": "/static/media/hangsha-logo.ea65c1d8.png",
+    "static/media/hyster-logo-0D1819B9A0-seeklogo.com.10475573.png": "/static/media/hyster-logo-0D1819B9A0-seeklogo.com.10475573.png",
+    "static/media/hyundai.ec477986.jpg": "/static/media/hyundai.ec477986.jpg",
+    "static/media/iglogo.7e0eb3c5.png": "/static/media/iglogo.7e0eb3c5.png",
+    "static/media/linde.146c330a.png": "/static/media/linde.146c330a.png",
+    "static/media/logo inex viljuskari.34ef035e.jpg": "/static/media/logo inex viljuskari.34ef035e.jpg",
+    "static/media/mitshubishi.22073ac9.png": "/static/media/mitshubishi.22073ac9.png",
+    "static/media/nissan.a51f43e1.png": "/static/media/nissan.a51f43e1.png",
+    "static/media/tcm 3.d46d4404.png": "/static/media/tcm 3.d46d4404.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d8470d5.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.17398b29.chunk.js",
+    "static/css/main.6dd6a460.chunk.css",
+    "static/js/main.af1c4b94.chunk.js"
+  ]
+}
